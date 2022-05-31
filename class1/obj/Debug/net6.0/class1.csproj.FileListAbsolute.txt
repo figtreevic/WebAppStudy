@@ -1,0 +1,15 @@
+/Users/victorfigueiredo/Documents/comIT/class1/class1/obj/Debug/net6.0/class1.csproj.AssemblyReference.cache
+/Users/victorfigueiredo/Documents/comIT/class1/class1/obj/Debug/net6.0/class1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorfigueiredo/Documents/comIT/class1/class1/obj/Debug/net6.0/class1.AssemblyInfoInputs.cache
+/Users/victorfigueiredo/Documents/comIT/class1/class1/obj/Debug/net6.0/class1.AssemblyInfo.cs
+/Users/victorfigueiredo/Documents/comIT/class1/class1/obj/Debug/net6.0/class1.csproj.CoreCompileInputs.cache
+/Users/victorfigueiredo/Documents/comIT/class1/class1/bin/Debug/net6.0/class1
+/Users/victorfigueiredo/Documents/comIT/class1/class1/bin/Debug/net6.0/class1.deps.json
+/Users/victorfigueiredo/Documents/comIT/class1/class1/bin/Debug/net6.0/class1.runtimeconfig.json
+/Users/victorfigueiredo/Documents/comIT/class1/class1/bin/Debug/net6.0/class1.dll
+/Users/victorfigueiredo/Documents/comIT/class1/class1/bin/Debug/net6.0/ref/class1.dll
+/Users/victorfigueiredo/Documents/comIT/class1/class1/bin/Debug/net6.0/class1.pdb
+/Users/victorfigueiredo/Documents/comIT/class1/class1/obj/Debug/net6.0/class1.dll
+/Users/victorfigueiredo/Documents/comIT/class1/class1/obj/Debug/net6.0/ref/class1.dll
+/Users/victorfigueiredo/Documents/comIT/class1/class1/obj/Debug/net6.0/class1.pdb
+/Users/victorfigueiredo/Documents/comIT/class1/class1/obj/Debug/net6.0/class1.genruntimeconfig.cache
